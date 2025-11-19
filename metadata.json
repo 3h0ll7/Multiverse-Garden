@@ -1,0 +1,7 @@
+{
+  "name": "Multiverse Garden",
+  "description": "A touch-reactive living world with fluid physics, particles, and generative audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
